@@ -1,4 +1,4 @@
-package entrymanagementsystem ;
+package ems.database ;
 
 import com.javaranch.db.* ;
 import java.sql.* ;

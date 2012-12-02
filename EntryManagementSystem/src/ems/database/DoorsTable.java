@@ -1,4 +1,4 @@
-package entrymanagementsystem ;
+package ems.database ;
 
 import java.util.Map ;
 import java.util.HashMap ;
