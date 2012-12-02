@@ -1,0 +1,32 @@
+02-Dec-2012 05:16:31 facerecognition.javafaces.FaceRec validateSelectedEigenFacesNumber
+SEVERE: incorrect number of selectedeigenfaces17usedallowed btw 0-17
+02-Dec-2012 05:16:41 facerecognition.javafaces.FaceRec checkCache
+INFO: cache file not found
+02-Dec-2012 05:16:41 facerecognition.javafaces.FaceRec createEigenFaceImages
+INFO: creating eigenfaces
+02-Dec-2012 05:16:42 facerecognition.javafaces.FaceRec createEigenFaceImages
+INFO: created eigenfaces.
+02-Dec-2012 05:16:42 facerecognition.javafaces.FaceRec writeCache
+INFO: wrote cache
+02-Dec-2012 05:16:43 facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over
+02-Dec-2012 05:17:45 facerecognition.javafaces.FaceRec processCache
+INFO: folder contents changed
+02-Dec-2012 05:17:46 facerecognition.javafaces.FaceRec createEigenFaceImages
+INFO: creating eigenfaces
+02-Dec-2012 05:17:46 facerecognition.javafaces.FaceRec createEigenFaceImages
+INFO: created eigenfaces.
+02-Dec-2012 05:17:46 facerecognition.javafaces.FaceRec writeCache
+INFO: wrote cache
+02-Dec-2012 05:17:47 facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over
+02-Dec-2012 05:22:50 facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over
+02-Dec-2012 05:22:54 facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over
+02-Dec-2012 05:22:58 facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over
+02-Dec-2012 05:23:04 facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over
+02-Dec-2012 05:23:14 facerecognition.javafaces.FaceRec reconstructFaces
+INFO: reconstruction over
